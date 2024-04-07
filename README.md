@@ -13,4 +13,12 @@ pip install -r requirements.txt
 
 ## Usage
 
-All of our code is located in the Jupyter Notebook `stAdv.ipynb`. To run the notebook, you need to have [Jupyter Notebook](https://jupyter.org/install) installed.
+All of our code for implementing stAdv is located in the Jupyter Notebook `stAdv.ipynb`. To run the notebook, you need to have [Jupyter Notebook](https://jupyter.org/install) installed.
+
+## Folders and files
+
+`Figures` folder contains the figures used in our blog
+
+`SGD_models` folder contains the notebooks written for training the models A, B, and C from scratch.
+
+`adv_tests` folder contains the adversarial test sets of model A, B, and C. They contain the 10.000 adversarial images with random targets used to evaluate the attack success rates.
