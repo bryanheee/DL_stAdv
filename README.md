@@ -5,6 +5,12 @@ where they introduce a new method for attacking deep neural networks so that the
 
 Our blog can be found [here](https://hackmd.io/0AgywzjYTU6I0pagAt3a0g).
 
+The goal was to reproduce the table 1 of the original paper and figure 2, which can be seen below.
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Requirements
 
 To install the required packages, run the following command:
