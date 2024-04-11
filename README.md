@@ -3,7 +3,7 @@
 This project aims to reproduce the paper [Spatially Transformed Adversarial Examples](https://arxiv.org/abs/1801.02612) (Xiao, C., Zhu, J., Li, B., He, W., Liu, M., & Song, D.),
 where they introduce a new method for attacking deep neural networks so that they misclassify adversarial examples.
 
-Our blog can be found [here](https://hackmd.io/0AgywzjYTU6I0pagAt3a0g), or a PDF version can be seen in [`Blog.pdf`](Blog.pdf).
+Our blog can be found [here](https://hackmd.io/0AgywzjYTU6I0pagAt3a0g), or a PDF version can be seen in [`Blog_reproduction_stAdv.pdf`](Blog_reproduction_stAdv.pdf).
 
 The goal was to reproduce the table 1 of the original paper and figure 2, which can be seen below.
 
